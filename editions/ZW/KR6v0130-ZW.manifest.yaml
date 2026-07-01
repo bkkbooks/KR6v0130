@@ -1,0 +1,46 @@
+canonical_identifier: bkk:krp/KR6v0130/ZW/v1
+canonical_location: https://kanripo.org/bkk/KR6v0130/ZW/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 漢文大藏經研究要重視文獻價值的判別
+  identifiers:
+    krp: KR6v0130
+    cbeta: ZW12n0103
+    cbeta_old_id: ZW12n0103
+    authorityid: CA0008559
+    json_key: ZW0103
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/ZW/ZW12/ZW12n0103.xml
+    old_id: ZW12n0103
+  edition:
+    short: ZW
+assets:
+  parts:
+  - {seq: 1, filename: KR6v0130_001-ZW.yaml, hash: 'sha256:22d04584703b9a8b2e402a7e627908986531aca60992b5a87f7adf64d3c0dfd4'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6v0130_001-ZW.markers.yaml, hash: 'sha256:a5e1cb0928d48a44a09170b61147796613d07f58ad22f814e420261721144c6e'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6v0130_ZW_001-juan-start
+    span:
+    - body
+    - 0
+    - 2185
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0130_ZW_001-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 漢文大藏經研究要重視文獻價值的判別
+  type: mulu
+  level: 1
+hash: sha256:5cafd864eff9184238347e61099fd66408fda9c02e0efb743a4e52d09b0bdbd4
