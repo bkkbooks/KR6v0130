@@ -18,9 +18,9 @@ editions:
 - short: ZW
 assets:
   parts:
-  - {seq: 1, filename: KR6v0130_001.yaml, hash: 'sha256:9e89fb78de212fc2c854522f61e79db32ce6a3e3ee72df1394103350914b2cd8'}
+  - {seq: 1, filename: KR6v0130_001.yaml, hash: 'sha256:22d04584703b9a8b2e402a7e627908986531aca60992b5a87f7adf64d3c0dfd4'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6v0130_001.markers.yaml, hash: 'sha256:b28a05b2ba4f2d15bea9546658576aef6e5a7b620ab09a0350635036f52ba052'}
+  - {seq: 1, role: markers, filename: assets/KR6v0130_001.markers.yaml, hash: 'sha256:0b209c90f1fa05e64681c8cbca6aac80ab8ae124bef83c34a6e9d6751b7b250f'}
 table_of_contents:
 - ref:
     seq: 1
@@ -42,7 +42,4 @@ table_of_contents:
   label: 漢文大藏經研究要重視文獻價值的判別
   type: mulu
   level: 1
-hash: sha256:8a343be10320bde314e887ff525ff2ad9419c56aecd7eab549cd7f2187ca034d
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:9bd29238f8fc8379da29319a52f4a72357f69ca4680e69b77c6a83942f733a3f
