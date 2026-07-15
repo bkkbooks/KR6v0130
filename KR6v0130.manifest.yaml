@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6v0130/v1
 canonical_location: https://kanripo.org/bkk/KR6v0130/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 漢文大藏經研究要重視文獻價值的判別
   source:
@@ -18,9 +18,9 @@ editions:
 - short: ZW
 assets:
   parts:
-  - {seq: 1, filename: KR6v0130_001.yaml, hash: 'sha256:22d04584703b9a8b2e402a7e627908986531aca60992b5a87f7adf64d3c0dfd4'}
+  - {seq: 1, filename: KR6v0130_001.yaml, hash: 'sha256:3ababcf2e38ca6b4512baef339477544a7a79ef3b649bdbcf024404209c0af85'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6v0130_001.markers.yaml, hash: 'sha256:0b209c90f1fa05e64681c8cbca6aac80ab8ae124bef83c34a6e9d6751b7b250f'}
+  - {seq: 1, role: markers, filename: assets/KR6v0130_001.markers.yaml, hash: 'sha256:a8e6e4c35d7d52fc7f49558f949ee5786484edb16e0befc557152c1a9cd994cb'}
 table_of_contents:
 - ref:
     seq: 1
@@ -42,4 +42,7 @@ table_of_contents:
   label: 漢文大藏經研究要重視文獻價值的判別
   type: mulu
   level: 1
-hash: sha256:9bd29238f8fc8379da29319a52f4a72357f69ca4680e69b77c6a83942f733a3f
+hash: sha256:cada8c7fca7f249f4e23d223f4e2a4ee7c50ec04cf143a0bf1954b7b1348b358
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
